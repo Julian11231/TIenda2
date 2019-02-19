@@ -1,0 +1,11 @@
+.proimg {
+	border-radius: 6px;
+	width: 200px;
+	height: 240px;
+}
+
+.sidebar {
+	border-right-style: ridge;
+	border-width: 1px;
+	border-color: grey;
+}

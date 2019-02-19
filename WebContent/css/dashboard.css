@@ -1,0 +1,27 @@
+.navbar-fixed-top {
+	border: 0;
+}
+
+.admdiv {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #f0f0f0;
+}
+
+.sidenav {
+	background-color: #f1f1f1;
+	height: 100%;
+	border: 0;
+}
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+	.sidenav {
+		height: auto;
+		padding: 15px;
+	}
+	.row.content {
+		height: auto;
+	}
+}
